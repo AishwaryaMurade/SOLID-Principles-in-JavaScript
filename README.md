@@ -11,7 +11,7 @@ The Single Responsibility Principle states that a class or module should have on
 
 Here's a brief explanation of each principle:
 
-### Single Responsibility Principle (SRP):
+### [Single Responsibility Principle (SRP)](https://github.com/AishwaryaMurade/SOLID-Principles-in-JavaScript/tree/main/Single_Responsibility_Principle):
 Each class or function should have only one responsibility or job. It means that a module should focus on doing one thing well and not try to handle multiple unrelated tasks.
 
 ### Open/Closed Principle (OCP):
